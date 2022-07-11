@@ -1,4 +1,4 @@
-# Mech_Task1
+# legs_joints_design
 Robotic legs and joints design 
 
 The angle between the two legs should be kept within an acceptable range so that the load on the legs joints. 
